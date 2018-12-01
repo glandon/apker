@@ -27,3 +27,57 @@ make a choice:
 3. package to apk
 4. sign your apk
 5. exit
+
+## Android 加固厂商特征
+娜迦
+libchaosvmp.so , libddog.solibfdog.so
+
+爱加密
+libexec.so, libexecmain.so，ijiami.dat
+
+梆梆
+libsecexe.so, libsecmain.so,libSecShell.so
+
+梆梆企业版
+libDexHelper.so , libDexHelper-x86.so
+
+360
+libprotectClass.so, libjiagu.so
+libjiagu.so, libjiagu_art.so
+libjiagu.so, libjiagu_x86.so
+
+通付盾
+libegis.so，libNSaferOnly.so
+
+网秦
+libnqshield.so
+
+百度
+libbaiduprotect.so
+
+阿里聚安全
+aliprotect.dat，libsgmain.so，libsgsecuritybody.so
+
+腾讯
+libtup.so, libexec.so，libshell.so
+mix.dex
+lib/armeabi/mix.dex ,lib/armeabi/mixz.dex
+
+腾讯御安全
+libtosprotection.armeabi.so，
+libtosprotection.armeabi-v7a.so，
+libtosprotection.x86.so
+
+网易易盾
+libnesec.so
+
+APKProtect
+libAPKProtect.so
+
+几维安全
+libkwscmm.so, libkwscr.so, libkwslinker.so
+
+顶像科技
+libx3g.so
+
+2017-12-29 10:20 补充新增顶像腾讯
